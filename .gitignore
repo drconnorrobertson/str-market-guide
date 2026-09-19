@@ -1,0 +1,5 @@
+.DS_Store
+.vercel
+.sites-runtime
+node_modules
+dist/.indexnow-key.txt
